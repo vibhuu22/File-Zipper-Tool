@@ -1,6 +1,4 @@
-//
-// Created by zawawy on 12/22/18.
-//
+
 
 #include "Node.h"
 
