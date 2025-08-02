@@ -1,6 +1,4 @@
-//
-// Created by zawawy on 12/25/18.
-//
+
 
 #include "HuffmanUtility.h"
 
